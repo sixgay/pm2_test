@@ -50,7 +50,7 @@ pm2 list
 
 2. 在CentOS7.x中安装必要的软件 Node、MongoDB、Apache、MySQL、FTPServer...
 
-   参考:https://github.com/Duanzihuang/linuxtutorial
+   参考:https://github.com/sixgay/linux-tutorial
 
 3. 本地和服务器安装pm2全局包
 

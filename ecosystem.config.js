@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name      : 'szhmqd21_node',
+    name      : 'pm2_node_test',
     script    : './src/app.js',
     env: {
       NODE_ENV: 'development'
