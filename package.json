@@ -1,7 +1,7 @@
 {
   "name": "szhmqd21_node",
   "version": "1.0.1",
-  "description": "深圳黑马前端21期Node项目",
+  "description": "PM2_Node项目",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
