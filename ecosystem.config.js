@@ -15,7 +15,7 @@ module.exports = {
       host : '47.107.150.71',
       ref  : 'origin/master',
       repo : 'git@github.com:sixgay/pm2_test.git',
-      path : '/home/pm2_demo',
+      path : '/ftp/node/production',
       'post-deploy' : 'git pull && npm install && pm2 reload ecosystem.config.js --env production'
     }
   }
