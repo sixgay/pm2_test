@@ -1,6 +1,6 @@
 {
   "name": "pm2_node_test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PM2_Node项目",
   "main": "index.js",
   "scripts": {
